@@ -18,7 +18,7 @@
 各システムは、それぞれ専用の Git ブランチを作成して練習します。
 
 ```text
-main
+master
 feature/01-user-management
 feature/02-leave-request
 feature/03-expense-management
